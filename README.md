@@ -1,9 +1,19 @@
- # P3 - OhMyFood
+ # P4 - La Panthère
 ## Infos  
 Projet réalisé dans le cadre de la formation Développement Web par OpenClassroom [P4].   
 Optimisation SEO et Accessibilité sur site existant. 
 
 ## Versions 
+
+### v1.0.2
+
+* Reproduction du header+footer sur contact  
+* modif "page-container" en main, div en header & footer.  
+* Ajout label sur form  
+* Compression & changement encodage images  
+* Compression CSS
+
+***
 
 ### v1.0.1
 
@@ -17,7 +27,7 @@ Optimisation SEO et Accessibilité sur site existant.
 * Restructuration : Ajout H2,  
 * Remplacement images-text par du texte + blockquote sur première image  
 * Modification taille p en 1.2em  
-* Supression bg-lines  
+* Supression bg-lines, dots & texture  
 * Modification couleurs/contraste  
 
 
