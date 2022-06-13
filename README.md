@@ -5,6 +5,17 @@ Optimisation SEO et Accessibilité sur site existant.
 
 ## Versions 
 
+### v1.0.3
+
+* Ajout font-display: swap  
+* Suppression du changement de couleur de fond  
+* Déplacement script en fin de page + propriété async  
+* Modification pour responsive  
+* Ajout preload sur image en background  
+* Compression CSS & js  
+
+*** 
+
 ### v1.0.2
 
 * Reproduction du header+footer sur contact  
@@ -29,7 +40,5 @@ Optimisation SEO et Accessibilité sur site existant.
 * Modification taille p en 1.2em  
 * Supression bg-lines, dots & texture  
 * Modification couleurs/contraste  
-
-
 
 ***
