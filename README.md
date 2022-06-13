@@ -5,6 +5,13 @@ Optimisation SEO et Accessibilité sur site existant.
 
 ## Versions 
 
+# v1.0.4  
+
+* Validation W3C: modification sur le form contact. 
+* Récriture de certaines alt  
+
+*** 
+
 ### v1.0.3
 
 * Ajout font-display: swap  
