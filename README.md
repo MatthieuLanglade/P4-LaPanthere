@@ -5,6 +5,12 @@ Optimisation SEO et Accessibilité sur site existant.
 
 ## Versions 
 
+# v1.0.5  
+
+* Validation W3C CSS, suppressions safe-area-inset & modif min-width-device
+
+*** 
+
 # v1.0.4  
 
 * Validation W3C: modification sur le form contact. 
